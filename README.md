@@ -1,5 +1,5 @@
 # programmingLanguage
-programming language class (2017-1, Hanyang Univ)
+programming language class (2017-1)
 
 ### Homework 1 
 - DFA
